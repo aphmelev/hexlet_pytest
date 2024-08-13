@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/aphmelev/hexlet_pytest/actions/workflows/hello-word.yaml/badge.svg)](https://github.com/aphmelev/hexlet_pytest/actions/workflows/hello-word.yaml)
